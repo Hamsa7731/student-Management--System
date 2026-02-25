@@ -1,2 +1,12 @@
 # student-Management--System
-Thisnis my first project
+This is java console- based application.
+
+features:
+-Add Student
+-View Student
+-Store student details
+
+Technologies Used:
+-Java
+-Array list
+
